@@ -1,0 +1,22 @@
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\ProdcutAvailability\ProductRepositories\bin\Debug\netcoreapp2.0\ProductRepositories.deps.json
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\ProdcutAvailability\ProductRepositories\bin\Debug\netcoreapp2.0\ProductRepositories.dll
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\ProdcutAvailability\ProductRepositories\bin\Debug\netcoreapp2.0\ProductRepositories.pdb
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\ProdcutAvailability\ProductRepositories\bin\Debug\netcoreapp2.0\ProductModels.dll
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\ProdcutAvailability\ProductRepositories\bin\Debug\netcoreapp2.0\ProductModels.pdb
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\ProdcutAvailability\ProductRepositories\obj\Debug\netcoreapp2.0\ProductRepositories.csprojResolveAssemblyReference.cache
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\ProdcutAvailability\ProductRepositories\obj\Debug\netcoreapp2.0\ProductRepositories.csproj.CoreCompileInputs.cache
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\ProdcutAvailability\ProductRepositories\obj\Debug\netcoreapp2.0\ProductRepositories.AssemblyInfoInputs.cache
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\ProdcutAvailability\ProductRepositories\obj\Debug\netcoreapp2.0\ProductRepositories.AssemblyInfo.cs
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\ProdcutAvailability\ProductRepositories\obj\Debug\netcoreapp2.0\ProductRepositories.dll
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\ProdcutAvailability\ProductRepositories\obj\Debug\netcoreapp2.0\ProductRepositories.pdb
+C:\Stash\ProductAvailability\src\ProductRepositories\bin\Debug\netcoreapp2.0\ProductRepositories.deps.json
+C:\Stash\ProductAvailability\src\ProductRepositories\bin\Debug\netcoreapp2.0\ProductRepositories.dll
+C:\Stash\ProductAvailability\src\ProductRepositories\bin\Debug\netcoreapp2.0\ProductRepositories.pdb
+C:\Stash\ProductAvailability\src\ProductRepositories\bin\Debug\netcoreapp2.0\ProductModels.dll
+C:\Stash\ProductAvailability\src\ProductRepositories\bin\Debug\netcoreapp2.0\ProductModels.pdb
+C:\Stash\ProductAvailability\src\ProductRepositories\obj\Debug\netcoreapp2.0\ProductRepositories.csprojResolveAssemblyReference.cache
+C:\Stash\ProductAvailability\src\ProductRepositories\obj\Debug\netcoreapp2.0\ProductRepositories.csproj.CoreCompileInputs.cache
+C:\Stash\ProductAvailability\src\ProductRepositories\obj\Debug\netcoreapp2.0\ProductRepositories.AssemblyInfoInputs.cache
+C:\Stash\ProductAvailability\src\ProductRepositories\obj\Debug\netcoreapp2.0\ProductRepositories.AssemblyInfo.cs
+C:\Stash\ProductAvailability\src\ProductRepositories\obj\Debug\netcoreapp2.0\ProductRepositories.dll
+C:\Stash\ProductAvailability\src\ProductRepositories\obj\Debug\netcoreapp2.0\ProductRepositories.pdb

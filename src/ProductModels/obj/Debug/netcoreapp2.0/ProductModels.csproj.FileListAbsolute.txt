@@ -1,0 +1,17 @@
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\ProdcutAvailability\ProductModels\bin\Debug\netcoreapp2.0\ProductModels.deps.json
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\ProdcutAvailability\ProductModels\bin\Debug\netcoreapp2.0\ProductModels.dll
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\ProdcutAvailability\ProductModels\bin\Debug\netcoreapp2.0\ProductModels.pdb
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\ProdcutAvailability\ProductModels\obj\Debug\netcoreapp2.0\ProductModels.csproj.CoreCompileInputs.cache
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\ProdcutAvailability\ProductModels\obj\Debug\netcoreapp2.0\ProductModels.AssemblyInfoInputs.cache
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\ProdcutAvailability\ProductModels\obj\Debug\netcoreapp2.0\ProductModels.AssemblyInfo.cs
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\ProdcutAvailability\ProductModels\obj\Debug\netcoreapp2.0\ProductModels.dll
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\ProdcutAvailability\ProductModels\obj\Debug\netcoreapp2.0\ProductModels.pdb
+C:\Stash\ProductAvailability\src\ProductModels\bin\Debug\netcoreapp2.0\ProductModels.deps.json
+C:\Stash\ProductAvailability\src\ProductModels\bin\Debug\netcoreapp2.0\ProductModels.dll
+C:\Stash\ProductAvailability\src\ProductModels\bin\Debug\netcoreapp2.0\ProductModels.pdb
+C:\Stash\ProductAvailability\src\ProductModels\obj\Debug\netcoreapp2.0\ProductModels.csproj.CoreCompileInputs.cache
+C:\Stash\ProductAvailability\src\ProductModels\obj\Debug\netcoreapp2.0\ProductModels.AssemblyInfoInputs.cache
+C:\Stash\ProductAvailability\src\ProductModels\obj\Debug\netcoreapp2.0\ProductModels.AssemblyInfo.cs
+C:\Stash\ProductAvailability\src\ProductModels\obj\Debug\netcoreapp2.0\ProductModels.dll
+C:\Stash\ProductAvailability\src\ProductModels\obj\Debug\netcoreapp2.0\ProductModels.pdb
+C:\Stash\ProductAvailability\src\ProductModels\obj\Debug\netcoreapp2.0\ProductModels.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Stash\ProductAvailability\src\ProductRepositories\bin\Release\netcoreapp2.0\ProductRepositories.deps.json
+C:\Stash\ProductAvailability\src\ProductRepositories\bin\Release\netcoreapp2.0\ProductRepositories.dll
+C:\Stash\ProductAvailability\src\ProductRepositories\bin\Release\netcoreapp2.0\ProductRepositories.pdb
+C:\Stash\ProductAvailability\src\ProductRepositories\bin\Release\netcoreapp2.0\ProductModels.dll
+C:\Stash\ProductAvailability\src\ProductRepositories\bin\Release\netcoreapp2.0\ProductModels.pdb
+C:\Stash\ProductAvailability\src\ProductRepositories\obj\Release\netcoreapp2.0\ProductRepositories.csprojResolveAssemblyReference.cache
+C:\Stash\ProductAvailability\src\ProductRepositories\obj\Release\netcoreapp2.0\ProductRepositories.csproj.CoreCompileInputs.cache
+C:\Stash\ProductAvailability\src\ProductRepositories\obj\Release\netcoreapp2.0\ProductRepositories.AssemblyInfoInputs.cache
+C:\Stash\ProductAvailability\src\ProductRepositories\obj\Release\netcoreapp2.0\ProductRepositories.AssemblyInfo.cs
+C:\Stash\ProductAvailability\src\ProductRepositories\obj\Release\netcoreapp2.0\ProductRepositories.dll
+C:\Stash\ProductAvailability\src\ProductRepositories\obj\Release\netcoreapp2.0\ProductRepositories.pdb
