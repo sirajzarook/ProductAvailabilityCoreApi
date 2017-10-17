@@ -1,0 +1,16 @@
+C:\Stash\ProductAvailability\src\ProdcutAvailability\bin\Release\netcoreapp2.0\ProdcutAvailability.xml
+C:\Stash\ProductAvailability\src\ProdcutAvailability\bin\Release\netcoreapp2.0\ProdcutAvailability.deps.json
+C:\Stash\ProductAvailability\src\ProdcutAvailability\bin\Release\netcoreapp2.0\ProdcutAvailability.runtimeconfig.json
+C:\Stash\ProductAvailability\src\ProdcutAvailability\bin\Release\netcoreapp2.0\ProdcutAvailability.runtimeconfig.dev.json
+C:\Stash\ProductAvailability\src\ProdcutAvailability\bin\Release\netcoreapp2.0\ProdcutAvailability.dll
+C:\Stash\ProductAvailability\src\ProdcutAvailability\bin\Release\netcoreapp2.0\ProdcutAvailability.pdb
+C:\Stash\ProductAvailability\src\ProdcutAvailability\bin\Release\netcoreapp2.0\ProductModels.dll
+C:\Stash\ProductAvailability\src\ProdcutAvailability\bin\Release\netcoreapp2.0\ProductRepositories.dll
+C:\Stash\ProductAvailability\src\ProdcutAvailability\bin\Release\netcoreapp2.0\ProductRepositories.pdb
+C:\Stash\ProductAvailability\src\ProdcutAvailability\bin\Release\netcoreapp2.0\ProductModels.pdb
+C:\Stash\ProductAvailability\src\ProdcutAvailability\obj\Release\netcoreapp2.0\ProdcutAvailability.csprojResolveAssemblyReference.cache
+C:\Stash\ProductAvailability\src\ProdcutAvailability\obj\Release\netcoreapp2.0\ProdcutAvailability.csproj.CoreCompileInputs.cache
+C:\Stash\ProductAvailability\src\ProdcutAvailability\obj\Release\netcoreapp2.0\ProdcutAvailability.AssemblyInfoInputs.cache
+C:\Stash\ProductAvailability\src\ProdcutAvailability\obj\Release\netcoreapp2.0\ProdcutAvailability.AssemblyInfo.cs
+C:\Stash\ProductAvailability\src\ProdcutAvailability\obj\Release\netcoreapp2.0\ProdcutAvailability.dll
+C:\Stash\ProductAvailability\src\ProdcutAvailability\obj\Release\netcoreapp2.0\ProdcutAvailability.pdb

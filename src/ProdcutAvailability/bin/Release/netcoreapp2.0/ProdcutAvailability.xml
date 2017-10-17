@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProdcutAvailability</name>
+    </assembly>
+    <members>
+        <member name="M:ProdcutAvailability.Controllers.ProductController.GetProductList(System.String,System.String)">
+            <summary>
+            Get Products EANs	
+            </summary>
+            <param name="vendor"></param>
+            <param name="ean"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProdcutAvailability.Formatter.RawRequestBodyFormatter.CanRead(Microsoft.AspNetCore.Mvc.Formatters.InputFormatterContext)">
+            <summary>
+            Allow text/plain, application/octet-stream and no content type to
+            be processed
+            </summary>
+            <param name="context"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProdcutAvailability.Formatter.RawRequestBodyFormatter.ReadRequestBodyAsync(Microsoft.AspNetCore.Mvc.Formatters.InputFormatterContext)">
+            <summary>
+            Handle text/plain or no content type for string results
+            Handle application/octet-stream for byte[] results
+            </summary>
+            <param name="context"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
